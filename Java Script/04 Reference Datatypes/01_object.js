@@ -10,3 +10,5 @@ let obj = {
 
 console.log(obj);
 obj.Hello();
+
+console.log(typeof(obj));
