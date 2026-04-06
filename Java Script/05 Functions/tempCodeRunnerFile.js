@@ -1,1 +1,0 @@
-sayName("Vinay Saini");
