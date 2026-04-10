@@ -1,0 +1,14 @@
+console.log(Math.PI);
+console.log(Math.max(10,20,30,40,50));
+console.log(Math.min(10,20,30,40,50));
+console.log(Math.round(1.6));
+console.log(Math.floor(1.9));
+console.log(Math.ceil(1.1));
+console.log(Math.abs(-1));
+console.log(Math.random());
+console.log(Math.sqrt(49));
+console.log(Math.pow(2,10));
+console.log(Math.sin(90));
+console.log(Math.cos(90));
+console.log(Math.tan(45));
+console.log(Math.LOG10E);
