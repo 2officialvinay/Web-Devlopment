@@ -1,0 +1,5 @@
+/*
+getElementbyID()
+getElementbyClassName()
+getElementbyTagName()
+*/
