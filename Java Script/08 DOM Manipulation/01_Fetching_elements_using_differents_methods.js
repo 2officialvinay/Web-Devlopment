@@ -1,5 +1,0 @@
-/*
-getElementbyID()
-getElementbyClassName()
-getElementbyTagName()
-*/
